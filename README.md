@@ -6,7 +6,7 @@
 <!-- ANIMATED INTRO -->
 <p align="center">
   <a href="https://github.com/NIKUNJMALTARE">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23FF00FF&size=24&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Tech+Innovator;%26+Building+Cool+Stuff;Always+Learning+and+Creating">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23FF00FF&size=24&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Tech+Innovator;Building+Cool+Stuff;Always+Learning+and+Creating">
   </a>
 </p>
 
