@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Nikunj%20Maltare&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="your-banner.png" alt="Nikunj Maltare | Full Stack Web Developer" />
 </p>
 
 <!-- SLIDING SUBTITLE -->
