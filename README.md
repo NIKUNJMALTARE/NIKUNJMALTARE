@@ -49,10 +49,22 @@ My experience spans **internships, hackathons, and collaborative projects** wher
 
 # Skills  
 
-**Languages**: C, C++, JavaScript, TypeScript  
-**Frameworks/Libraries**: React.js, Node.js, Express.js, TailwindCSS, FastAPI  
-**Databases**: MongoDB, MySQL  
-**Tools**: Git/GitHub, Postman, WordPress  
+<p align="center">
+  <img src="https://img.shields.io/badge/C-1e1e2e?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-252a34?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-252a34?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React.js-1e1e2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-252a34?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-1e1e2e?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-252a34?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/TailwindCSS-252a34?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/FastAPI-1e1e2e?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Git-252a34?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Postman-1e1e2e?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+</p>
+  
 
 ---
 
