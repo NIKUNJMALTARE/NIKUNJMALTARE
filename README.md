@@ -1,20 +1,15 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Nikunj%20Maltare&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descAlign=50&descSize=20&descColor=BB86FC"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,100:1a1a2e&height=220&section=header&text=Nikunj%20Maltare&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descAlign=50&descSize=20&descColor=9C89FF"/>
 </p>
-
 
 <!-- SLIDING SUBTITLE -->
 <p align="center">
   <a href="https://github.com/NIKUNJMALTARE">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=BB86FC&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;AI+Solutions+Builder;Hackathon+Winner+%26+Innovator;Always+Learning+%7C+Always+Building">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=9C89FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;AI+Solutions+Builder;Hackathon+Winner+%26+Innovator;Always+Learning+%7C+Always+Building">
   </a>
 </p>
 
-<!-- FOOTER TITLE INSIDE BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=16213e&height=60&section=footer&text=Full%20Stack%20Web%20Developer&fontSize=20&fontColor=BB86FC"/>
-</p>
 
 
 
