@@ -1,12 +1,12 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:2b2b2b&height=200&section=header&text=Nikunj%20Maltare&fontSize=42&fontColor=f5f5f5&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,100:1f1f1f&height=200&section=header&text=Nikunj%20Maltare&fontSize=42&fontColor=ededed&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- SLIDING SUBTITLE (Typing Effect) -->
 <p align="center">
   <a href="https://github.com/NIKUNJMALTARE">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;AI+Solutions+Builder;Hackathon+Winner+%26+Innovator;Always+Learning+%7C+Always+Building">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=9C89FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;AI-Driven+Solutions+Builder;Hackathon+Winner+and+Innovator;Always+Learning+%7C+Always+Building">
   </a>
 </p>
 
